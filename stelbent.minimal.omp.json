@@ -5,7 +5,7 @@
       "alignment": "right",
       "segments": [
         {
-          "foreground": "#007acc",
+          "foreground": "#757575",
           "style": "plain",
           "template": "{{ .Name }}",
           "type": "shell"
@@ -17,7 +17,7 @@
           "type": "root"
         },
         {
-          "foreground": "#689f38",
+          "foreground": "#e5e5e5",
           "options": {
             "time_format": "15:04:05"
           },
