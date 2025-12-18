@@ -70,6 +70,7 @@
       "type": "prompt"
     },
     {
+      "segments": [],
       "alignment": "left",
       "newline": true,
       "type": "prompt"
