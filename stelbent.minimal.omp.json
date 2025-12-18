@@ -39,8 +39,8 @@
           "type": "session"
         },
         {
-          "background": "#91ddff",
-          "foreground": "#100e23",
+          "background": "#333",
+          "foreground": "#e5e5e5",
           "powerline_symbol": "\ue0b0",
           "options": {
             "style": "folder"
@@ -50,7 +50,7 @@
           "type": "path"
         },
         {
-          "background": "#95ffa4",
+          "background": "#008374",
           "background_templates": [
             "{{ if or (.Working.Changed) (.Staging.Changed) }}#ff9248{{ end }}",
             "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#f26d50{{ end }}",
